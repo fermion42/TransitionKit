@@ -27,6 +27,35 @@
 		852D3C751C0C5F5E00785E51 /* TKEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 252C464716F6A4C200CF1FEA /* TKEvent.m */; };
 		852D3C761C0C5F5E00785E51 /* TKState.m in Sources */ = {isa = PBXBuildFile; fileRef = 252C464C16F6A4DF00CF1FEA /* TKState.m */; };
 		852D3C771C0C5F5E00785E51 /* TKTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 25B01F9B1808941D007488E1 /* TKTransition.m */; };
+		852D3C9F1C0C676200785E51 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C7A1C0C676200785E51 /* .gitignore */; };
+		852D3CA01C0C676200785E51 /* Common.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C7C1C0C676200785E51 /* Common.xcconfig */; };
+		852D3CA11C0C676200785E51 /* Debug.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C7E1C0C676200785E51 /* Debug.xcconfig */; };
+		852D3CA21C0C676200785E51 /* Profile.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C7F1C0C676200785E51 /* Profile.xcconfig */; };
+		852D3CA31C0C676200785E51 /* Release.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C801C0C676200785E51 /* Release.xcconfig */; };
+		852D3CA41C0C676200785E51 /* Test.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C811C0C676200785E51 /* Test.xcconfig */; };
+		852D3CA51C0C676200785E51 /* Application.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C831C0C676200785E51 /* Application.xcconfig */; };
+		852D3CA61C0C676200785E51 /* Framework.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C841C0C676200785E51 /* Framework.xcconfig */; };
+		852D3CA71C0C676200785E51 /* StaticLibrary.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C851C0C676200785E51 /* StaticLibrary.xcconfig */; };
+		852D3CA81C0C676200785E51 /* 04D4FC37-CBBA-3FED-AF6F-238BB10178E2.bcsymbolmap in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C891C0C676200785E51 /* 04D4FC37-CBBA-3FED-AF6F-238BB10178E2.bcsymbolmap */; };
+		852D3CA91C0C676200785E51 /* 12E0C9DD-8A71-3E07-BFF9-00CD1B312A15.bcsymbolmap in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C8A1C0C676200785E51 /* 12E0C9DD-8A71-3E07-BFF9-00CD1B312A15.bcsymbolmap */; };
+		852D3CAA1C0C676200785E51 /* 2352B926-EA10-354F-94C9-4DAF8A052C14.bcsymbolmap in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C8B1C0C676200785E51 /* 2352B926-EA10-354F-94C9-4DAF8A052C14.bcsymbolmap */; };
+		852D3CAB1C0C676200785E51 /* 3ED5779A-43CA-3E20-B34F-0C87384CDFD1.bcsymbolmap in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C8C1C0C676200785E51 /* 3ED5779A-43CA-3E20-B34F-0C87384CDFD1.bcsymbolmap */; };
+		852D3CAC1C0C676200785E51 /* 5D36AD8A-9219-32BF-892A-5827173E9207.bcsymbolmap in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C8D1C0C676200785E51 /* 5D36AD8A-9219-32BF-892A-5827173E9207.bcsymbolmap */; };
+		852D3CAD1C0C676200785E51 /* 87F3F09D-413F-312C-BD0E-027B88FD4BF9.bcsymbolmap in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C8E1C0C676200785E51 /* 87F3F09D-413F-312C-BD0E-027B88FD4BF9.bcsymbolmap */; };
+		852D3CAE1C0C676200785E51 /* A4F34100-0844-35DD-90AB-42613C8F3C5C.bcsymbolmap in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C8F1C0C676200785E51 /* A4F34100-0844-35DD-90AB-42613C8F3C5C.bcsymbolmap */; };
+		852D3CAF1C0C676200785E51 /* D4B9ADAB-16E1-3873-BB3A-5CB1805D63D9.bcsymbolmap in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C901C0C676200785E51 /* D4B9ADAB-16E1-3873-BB3A-5CB1805D63D9.bcsymbolmap */; };
+		852D3CB01C0C676200785E51 /* TransitionKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 852D3C911C0C676200785E51 /* TransitionKit.framework */; };
+		852D3CB11C0C676200785E51 /* TransitionKit.framework.dSYM in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C921C0C676200785E51 /* TransitionKit.framework.dSYM */; };
+		852D3CB21C0C676200785E51 /* iOS-Application.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C941C0C676200785E51 /* iOS-Application.xcconfig */; };
+		852D3CB31C0C676200785E51 /* iOS-Base.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C951C0C676200785E51 /* iOS-Base.xcconfig */; };
+		852D3CB41C0C676200785E51 /* iOS-Framework.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C961C0C676200785E51 /* iOS-Framework.xcconfig */; };
+		852D3CB51C0C676200785E51 /* iOS-StaticLibrary.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C971C0C676200785E51 /* iOS-StaticLibrary.xcconfig */; };
+		852D3CB61C0C676200785E51 /* Mac-Application.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C991C0C676200785E51 /* Mac-Application.xcconfig */; };
+		852D3CB71C0C676200785E51 /* Mac-Base.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C9A1C0C676200785E51 /* Mac-Base.xcconfig */; };
+		852D3CB81C0C676200785E51 /* Mac-DynamicLibrary.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C9B1C0C676200785E51 /* Mac-DynamicLibrary.xcconfig */; };
+		852D3CB91C0C676200785E51 /* Mac-Framework.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C9C1C0C676200785E51 /* Mac-Framework.xcconfig */; };
+		852D3CBA1C0C676200785E51 /* Mac-StaticLibrary.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 852D3C9D1C0C676200785E51 /* Mac-StaticLibrary.xcconfig */; };
+		852D3CBB1C0C676200785E51 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 852D3C9E1C0C676200785E51 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,6 +86,35 @@
 		852D3C671C0C5CF300785E51 /* TransitionKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TransitionKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		852D3C691C0C5CF300785E51 /* TransitionKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TransitionKit.h; sourceTree = "<group>"; };
 		852D3C6B1C0C5CF300785E51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		852D3C7A1C0C676200785E51 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		852D3C7C1C0C676200785E51 /* Common.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = Common.xcconfig; sourceTree = "<group>"; };
+		852D3C7E1C0C676200785E51 /* Debug.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = Debug.xcconfig; sourceTree = "<group>"; };
+		852D3C7F1C0C676200785E51 /* Profile.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = Profile.xcconfig; sourceTree = "<group>"; };
+		852D3C801C0C676200785E51 /* Release.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = Release.xcconfig; sourceTree = "<group>"; };
+		852D3C811C0C676200785E51 /* Test.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = Test.xcconfig; sourceTree = "<group>"; };
+		852D3C831C0C676200785E51 /* Application.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = Application.xcconfig; sourceTree = "<group>"; };
+		852D3C841C0C676200785E51 /* Framework.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = Framework.xcconfig; sourceTree = "<group>"; };
+		852D3C851C0C676200785E51 /* StaticLibrary.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = StaticLibrary.xcconfig; sourceTree = "<group>"; };
+		852D3C891C0C676200785E51 /* 04D4FC37-CBBA-3FED-AF6F-238BB10178E2.bcsymbolmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "04D4FC37-CBBA-3FED-AF6F-238BB10178E2.bcsymbolmap"; sourceTree = "<group>"; };
+		852D3C8A1C0C676200785E51 /* 12E0C9DD-8A71-3E07-BFF9-00CD1B312A15.bcsymbolmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "12E0C9DD-8A71-3E07-BFF9-00CD1B312A15.bcsymbolmap"; sourceTree = "<group>"; };
+		852D3C8B1C0C676200785E51 /* 2352B926-EA10-354F-94C9-4DAF8A052C14.bcsymbolmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "2352B926-EA10-354F-94C9-4DAF8A052C14.bcsymbolmap"; sourceTree = "<group>"; };
+		852D3C8C1C0C676200785E51 /* 3ED5779A-43CA-3E20-B34F-0C87384CDFD1.bcsymbolmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "3ED5779A-43CA-3E20-B34F-0C87384CDFD1.bcsymbolmap"; sourceTree = "<group>"; };
+		852D3C8D1C0C676200785E51 /* 5D36AD8A-9219-32BF-892A-5827173E9207.bcsymbolmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "5D36AD8A-9219-32BF-892A-5827173E9207.bcsymbolmap"; sourceTree = "<group>"; };
+		852D3C8E1C0C676200785E51 /* 87F3F09D-413F-312C-BD0E-027B88FD4BF9.bcsymbolmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "87F3F09D-413F-312C-BD0E-027B88FD4BF9.bcsymbolmap"; sourceTree = "<group>"; };
+		852D3C8F1C0C676200785E51 /* A4F34100-0844-35DD-90AB-42613C8F3C5C.bcsymbolmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "A4F34100-0844-35DD-90AB-42613C8F3C5C.bcsymbolmap"; sourceTree = "<group>"; };
+		852D3C901C0C676200785E51 /* D4B9ADAB-16E1-3873-BB3A-5CB1805D63D9.bcsymbolmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "D4B9ADAB-16E1-3873-BB3A-5CB1805D63D9.bcsymbolmap"; sourceTree = "<group>"; };
+		852D3C911C0C676200785E51 /* TransitionKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TransitionKit.framework; sourceTree = "<group>"; };
+		852D3C921C0C676200785E51 /* TransitionKit.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; path = TransitionKit.framework.dSYM; sourceTree = "<group>"; };
+		852D3C941C0C676200785E51 /* iOS-Application.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "iOS-Application.xcconfig"; sourceTree = "<group>"; };
+		852D3C951C0C676200785E51 /* iOS-Base.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "iOS-Base.xcconfig"; sourceTree = "<group>"; };
+		852D3C961C0C676200785E51 /* iOS-Framework.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "iOS-Framework.xcconfig"; sourceTree = "<group>"; };
+		852D3C971C0C676200785E51 /* iOS-StaticLibrary.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "iOS-StaticLibrary.xcconfig"; sourceTree = "<group>"; };
+		852D3C991C0C676200785E51 /* Mac-Application.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "Mac-Application.xcconfig"; sourceTree = "<group>"; };
+		852D3C9A1C0C676200785E51 /* Mac-Base.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "Mac-Base.xcconfig"; sourceTree = "<group>"; };
+		852D3C9B1C0C676200785E51 /* Mac-DynamicLibrary.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "Mac-DynamicLibrary.xcconfig"; sourceTree = "<group>"; };
+		852D3C9C1C0C676200785E51 /* Mac-Framework.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "Mac-Framework.xcconfig"; sourceTree = "<group>"; };
+		852D3C9D1C0C676200785E51 /* Mac-StaticLibrary.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "Mac-StaticLibrary.xcconfig"; sourceTree = "<group>"; };
+		852D3C9E1C0C676200785E51 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		AD73E569A343DBC89D42B79D /* Pods-ios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ios.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ios/Pods-ios.debug.xcconfig"; sourceTree = "<group>"; };
 		C96E76A4064B44C8AECE57E9 /* libPods-osx.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-osx.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDCE38A01AB58323C1616481 /* Pods-osx.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-osx.debug.xcconfig"; path = "Pods/Target Support Files/Pods-osx/Pods-osx.debug.xcconfig"; sourceTree = "<group>"; };
@@ -87,6 +145,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				852D3CB01C0C676200785E51 /* TransitionKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -180,10 +239,112 @@
 		852D3C681C0C5CF300785E51 /* TransitionKit */ = {
 			isa = PBXGroup;
 			children = (
+				852D3C791C0C676200785E51 /* xcconfigs */,
 				852D3C691C0C5CF300785E51 /* TransitionKit.h */,
 				852D3C6B1C0C5CF300785E51 /* Info.plist */,
 			);
 			path = TransitionKit;
+			sourceTree = "<group>";
+		};
+		852D3C791C0C676200785E51 /* xcconfigs */ = {
+			isa = PBXGroup;
+			children = (
+				852D3C7A1C0C676200785E51 /* .gitignore */,
+				852D3C7B1C0C676200785E51 /* Base */,
+				852D3C861C0C676200785E51 /* Carthage */,
+				852D3C931C0C676200785E51 /* iOS */,
+				852D3C981C0C676200785E51 /* Mac OS X */,
+				852D3C9E1C0C676200785E51 /* README.md */,
+			);
+			name = xcconfigs;
+			path = Carthage/Checkouts/xcconfigs;
+			sourceTree = SOURCE_ROOT;
+		};
+		852D3C7B1C0C676200785E51 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				852D3C7C1C0C676200785E51 /* Common.xcconfig */,
+				852D3C7D1C0C676200785E51 /* Configurations */,
+				852D3C821C0C676200785E51 /* Targets */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		852D3C7D1C0C676200785E51 /* Configurations */ = {
+			isa = PBXGroup;
+			children = (
+				852D3C7E1C0C676200785E51 /* Debug.xcconfig */,
+				852D3C7F1C0C676200785E51 /* Profile.xcconfig */,
+				852D3C801C0C676200785E51 /* Release.xcconfig */,
+				852D3C811C0C676200785E51 /* Test.xcconfig */,
+			);
+			path = Configurations;
+			sourceTree = "<group>";
+		};
+		852D3C821C0C676200785E51 /* Targets */ = {
+			isa = PBXGroup;
+			children = (
+				852D3C831C0C676200785E51 /* Application.xcconfig */,
+				852D3C841C0C676200785E51 /* Framework.xcconfig */,
+				852D3C851C0C676200785E51 /* StaticLibrary.xcconfig */,
+			);
+			path = Targets;
+			sourceTree = "<group>";
+		};
+		852D3C861C0C676200785E51 /* Carthage */ = {
+			isa = PBXGroup;
+			children = (
+				852D3C871C0C676200785E51 /* Build */,
+			);
+			path = Carthage;
+			sourceTree = "<group>";
+		};
+		852D3C871C0C676200785E51 /* Build */ = {
+			isa = PBXGroup;
+			children = (
+				852D3C881C0C676200785E51 /* iOS */,
+			);
+			path = Build;
+			sourceTree = "<group>";
+		};
+		852D3C881C0C676200785E51 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				852D3C891C0C676200785E51 /* 04D4FC37-CBBA-3FED-AF6F-238BB10178E2.bcsymbolmap */,
+				852D3C8A1C0C676200785E51 /* 12E0C9DD-8A71-3E07-BFF9-00CD1B312A15.bcsymbolmap */,
+				852D3C8B1C0C676200785E51 /* 2352B926-EA10-354F-94C9-4DAF8A052C14.bcsymbolmap */,
+				852D3C8C1C0C676200785E51 /* 3ED5779A-43CA-3E20-B34F-0C87384CDFD1.bcsymbolmap */,
+				852D3C8D1C0C676200785E51 /* 5D36AD8A-9219-32BF-892A-5827173E9207.bcsymbolmap */,
+				852D3C8E1C0C676200785E51 /* 87F3F09D-413F-312C-BD0E-027B88FD4BF9.bcsymbolmap */,
+				852D3C8F1C0C676200785E51 /* A4F34100-0844-35DD-90AB-42613C8F3C5C.bcsymbolmap */,
+				852D3C901C0C676200785E51 /* D4B9ADAB-16E1-3873-BB3A-5CB1805D63D9.bcsymbolmap */,
+				852D3C911C0C676200785E51 /* TransitionKit.framework */,
+				852D3C921C0C676200785E51 /* TransitionKit.framework.dSYM */,
+			);
+			path = iOS;
+			sourceTree = "<group>";
+		};
+		852D3C931C0C676200785E51 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				852D3C941C0C676200785E51 /* iOS-Application.xcconfig */,
+				852D3C951C0C676200785E51 /* iOS-Base.xcconfig */,
+				852D3C961C0C676200785E51 /* iOS-Framework.xcconfig */,
+				852D3C971C0C676200785E51 /* iOS-StaticLibrary.xcconfig */,
+			);
+			path = iOS;
+			sourceTree = "<group>";
+		};
+		852D3C981C0C676200785E51 /* Mac OS X */ = {
+			isa = PBXGroup;
+			children = (
+				852D3C991C0C676200785E51 /* Mac-Application.xcconfig */,
+				852D3C9A1C0C676200785E51 /* Mac-Base.xcconfig */,
+				852D3C9B1C0C676200785E51 /* Mac-DynamicLibrary.xcconfig */,
+				852D3C9C1C0C676200785E51 /* Mac-Framework.xcconfig */,
+				852D3C9D1C0C676200785E51 /* Mac-StaticLibrary.xcconfig */,
+			);
+			path = "Mac OS X";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -312,6 +473,33 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				852D3CA51C0C676200785E51 /* Application.xcconfig in Resources */,
+				852D3CAC1C0C676200785E51 /* 5D36AD8A-9219-32BF-892A-5827173E9207.bcsymbolmap in Resources */,
+				852D3CAF1C0C676200785E51 /* D4B9ADAB-16E1-3873-BB3A-5CB1805D63D9.bcsymbolmap in Resources */,
+				852D3CB31C0C676200785E51 /* iOS-Base.xcconfig in Resources */,
+				852D3CA71C0C676200785E51 /* StaticLibrary.xcconfig in Resources */,
+				852D3CA21C0C676200785E51 /* Profile.xcconfig in Resources */,
+				852D3CAD1C0C676200785E51 /* 87F3F09D-413F-312C-BD0E-027B88FD4BF9.bcsymbolmap in Resources */,
+				852D3C9F1C0C676200785E51 /* .gitignore in Resources */,
+				852D3CA41C0C676200785E51 /* Test.xcconfig in Resources */,
+				852D3CB71C0C676200785E51 /* Mac-Base.xcconfig in Resources */,
+				852D3CA01C0C676200785E51 /* Common.xcconfig in Resources */,
+				852D3CB91C0C676200785E51 /* Mac-Framework.xcconfig in Resources */,
+				852D3CBA1C0C676200785E51 /* Mac-StaticLibrary.xcconfig in Resources */,
+				852D3CB51C0C676200785E51 /* iOS-StaticLibrary.xcconfig in Resources */,
+				852D3CB21C0C676200785E51 /* iOS-Application.xcconfig in Resources */,
+				852D3CA11C0C676200785E51 /* Debug.xcconfig in Resources */,
+				852D3CB11C0C676200785E51 /* TransitionKit.framework.dSYM in Resources */,
+				852D3CAE1C0C676200785E51 /* A4F34100-0844-35DD-90AB-42613C8F3C5C.bcsymbolmap in Resources */,
+				852D3CAA1C0C676200785E51 /* 2352B926-EA10-354F-94C9-4DAF8A052C14.bcsymbolmap in Resources */,
+				852D3CB81C0C676200785E51 /* Mac-DynamicLibrary.xcconfig in Resources */,
+				852D3CAB1C0C676200785E51 /* 3ED5779A-43CA-3E20-B34F-0C87384CDFD1.bcsymbolmap in Resources */,
+				852D3CB61C0C676200785E51 /* Mac-Application.xcconfig in Resources */,
+				852D3CA31C0C676200785E51 /* Release.xcconfig in Resources */,
+				852D3CA81C0C676200785E51 /* 04D4FC37-CBBA-3FED-AF6F-238BB10178E2.bcsymbolmap in Resources */,
+				852D3CB41C0C676200785E51 /* iOS-Framework.xcconfig in Resources */,
+				852D3CA91C0C676200785E51 /* 12E0C9DD-8A71-3E07-BFF9-00CD1B312A15.bcsymbolmap in Resources */,
+				852D3CA61C0C676200785E51 /* Framework.xcconfig in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -404,6 +592,7 @@
 			files = (
 				852D3C741C0C5F5E00785E51 /* TKStateMachine.m in Sources */,
 				852D3C751C0C5F5E00785E51 /* TKEvent.m in Sources */,
+				852D3CBB1C0C676200785E51 /* README.md in Sources */,
 				852D3C761C0C5F5E00785E51 /* TKState.m in Sources */,
 				852D3C771C0C5F5E00785E51 /* TKTransition.m in Sources */,
 			);
@@ -586,6 +775,10 @@
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Checkouts/xcconfigs/Carthage/Build/iOS",
+				);
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
@@ -608,6 +801,7 @@
 		};
 		852D3C6E1C0C5CF300785E51 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 852D3C961C0C676200785E51 /* iOS-Framework.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
@@ -624,6 +818,10 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Checkouts/xcconfigs/Carthage/Build/iOS",
+				);
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
