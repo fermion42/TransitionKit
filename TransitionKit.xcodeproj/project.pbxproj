@@ -23,7 +23,10 @@
 		852D3C701C0C5D7200785E51 /* TKEvent.h in Headers */ = {isa = PBXBuildFile; fileRef = 252C464616F6A4C200CF1FEA /* TKEvent.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		852D3C711C0C5D7200785E51 /* TKState.h in Headers */ = {isa = PBXBuildFile; fileRef = 252C464B16F6A4DF00CF1FEA /* TKState.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		852D3C721C0C5D9200785E51 /* TKTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = 25B01F9A1808941D007488E1 /* TKTransition.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		852D3C731C0C5DF900785E51 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 252C45DB16F681D400CF1FEA /* Foundation.framework */; };
+		852D3C741C0C5F5E00785E51 /* TKStateMachine.m in Sources */ = {isa = PBXBuildFile; fileRef = 252C464216F6A4B500CF1FEA /* TKStateMachine.m */; };
+		852D3C751C0C5F5E00785E51 /* TKEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 252C464716F6A4C200CF1FEA /* TKEvent.m */; };
+		852D3C761C0C5F5E00785E51 /* TKState.m in Sources */ = {isa = PBXBuildFile; fileRef = 252C464C16F6A4DF00CF1FEA /* TKState.m */; };
+		852D3C771C0C5F5E00785E51 /* TKTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 25B01F9B1808941D007488E1 /* TKTransition.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -84,7 +87,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				852D3C731C0C5DF900785E51 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -400,6 +402,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				852D3C741C0C5F5E00785E51 /* TKStateMachine.m in Sources */,
+				852D3C751C0C5F5E00785E51 /* TKEvent.m in Sources */,
+				852D3C761C0C5F5E00785E51 /* TKState.m in Sources */,
+				852D3C771C0C5F5E00785E51 /* TKTransition.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
